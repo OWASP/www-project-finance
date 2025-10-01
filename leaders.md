@@ -1,2 +1,2 @@
 ### Leaders
-* [Christian Capellan](mailto:Christian.Capellan68@owasp.org)
+* [Christian Capellan](mailto:ccapellan@owasp.com)
